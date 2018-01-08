@@ -6,5 +6,4 @@ button.onclick = () => {
             console.log(module);
         })
 };
-
 document.body.appendChild(button);
